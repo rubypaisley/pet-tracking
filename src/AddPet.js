@@ -56,7 +56,7 @@ class AddPet extends Component {
                                 </label>
                             </div>
                         </div>
-                        <button className="btn btn-primary">Save Pet</button>
+                        <button type="button" className="btn btn-primary">Save Pet</button>
                     </form>
                 </div>
             </div>
